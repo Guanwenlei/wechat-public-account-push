@@ -13,7 +13,7 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '9cc8db4594a8edb2dfc5b61dc92cdbc2',
 
-  PROVINCE: '长沙',
+  PROVINCE: '湖南',
   CITY: '岳阳',
 
   USERS: [
@@ -21,7 +21,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '老婆',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '',
+      id: 'owt676ROmN8xvKpI3jCBTQpFLkq4',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'bTFOw2JI3GEDIcpJkeB3jUKLfGe7Gzp-g9N8KM_OR24',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
